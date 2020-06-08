@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/codinome007/static/css/main.5f361e03.chunk.css",
+    "main.js": "/codinome007/static/js/main.dcf6b97c.chunk.js",
+    "main.js.map": "/codinome007/static/js/main.dcf6b97c.chunk.js.map",
+    "runtime-main.js": "/codinome007/static/js/runtime-main.d8b27cb9.js",
+    "runtime-main.js.map": "/codinome007/static/js/runtime-main.d8b27cb9.js.map",
+    "static/js/2.ef402e00.chunk.js": "/codinome007/static/js/2.ef402e00.chunk.js",
+    "static/js/2.ef402e00.chunk.js.map": "/codinome007/static/js/2.ef402e00.chunk.js.map",
+    "index.html": "/codinome007/index.html",
+    "precache-manifest.87c82bc183c53bf03729e560a71ccb93.js": "/codinome007/precache-manifest.87c82bc183c53bf03729e560a71ccb93.js",
+    "service-worker.js": "/codinome007/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/codinome007/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ef402e00.chunk.js.LICENSE.txt": "/codinome007/static/js/2.ef402e00.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/codinome007/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8b27cb9.js",
+    "static/js/2.ef402e00.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dcf6b97c.chunk.js"
+  ]
+}
